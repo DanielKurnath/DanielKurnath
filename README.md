@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Sega Genesis/Masterdrive game development via SGDK, AI Assistants with cool personalities like R2D2 
 housed in hacked together robots, Integrating things that the world wouldn't expect, Getting 90% of the way done with a crazy project before 
 starting a new one!
-- 📫 How to reach me - Turning up on my doorstep unannounced is probably the most effective contact method, however i'm sure if you try hard enough you
-can find some type of internet based contact method.
+- 📫 How to reach me - https://Kurnath.com
+
 
 <!---
 DanielKurnath/DanielKurnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
